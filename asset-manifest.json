@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/justfit-client/static/css/main.a6d5efeb.chunk.css",
+    "main.js": "/justfit-client/static/js/main.99264967.chunk.js",
+    "main.js.map": "/justfit-client/static/js/main.99264967.chunk.js.map",
+    "runtime-main.js": "/justfit-client/static/js/runtime-main.62a0a447.js",
+    "runtime-main.js.map": "/justfit-client/static/js/runtime-main.62a0a447.js.map",
+    "static/css/2.de424728.chunk.css": "/justfit-client/static/css/2.de424728.chunk.css",
+    "static/js/2.cd74259d.chunk.js": "/justfit-client/static/js/2.cd74259d.chunk.js",
+    "static/js/2.cd74259d.chunk.js.map": "/justfit-client/static/js/2.cd74259d.chunk.js.map",
+    "index.html": "/justfit-client/index.html",
+    "precache-manifest.2df237e549be567bf7ad814cb50b2577.js": "/justfit-client/precache-manifest.2df237e549be567bf7ad814cb50b2577.js",
+    "service-worker.js": "/justfit-client/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/justfit-client/static/css/2.de424728.chunk.css.map",
+    "static/css/main.a6d5efeb.chunk.css.map": "/justfit-client/static/css/main.a6d5efeb.chunk.css.map",
+    "static/js/2.cd74259d.chunk.js.LICENSE.txt": "/justfit-client/static/js/2.cd74259d.chunk.js.LICENSE.txt",
+    "static/media/crossfite.jpg": "/justfit-client/static/media/crossfite.4b279cf1.jpg",
+    "static/media/gaye.jpg": "/justfit-client/static/media/gaye.c483f47a.jpg",
+    "static/media/traininge.jpg": "/justfit-client/static/media/traininge.fcbad424.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a0a447.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.cd74259d.chunk.js",
+    "static/css/main.a6d5efeb.chunk.css",
+    "static/js/main.99264967.chunk.js"
+  ]
+}
