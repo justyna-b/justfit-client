@@ -52,7 +52,7 @@ export default function TemporaryDrawer () {
       <List>
         {['Rozkład zajęć', 'Mój karnet', 'Nasza kadra'].map((text, index) => (
           <div className='xxx'>
-            <Link to={'/' + index}>
+            <Link to={'/justfit-client/' + index}>
               <ListItem button key={text}>
                 <ListItemText primary={text} />
               </ListItem>
